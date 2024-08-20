@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://c.pxhere.com/photos/41/77/flower_spring_nature_gazania_petals_colorful_flowers_asteraceae_macro_photo-806258.jpg!d');
+    background-size: cover;
+}
+#image_1{
+    width: 50;
+    height: auto;
+}
+#flower
+.grp1{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   border: 4px solid red; 
+}
+.gep2{
+    list-style-type: decimal;
+}
+ table{
+    border-top: 2px solid rgba(159, 60, 60, 0.839) ;
+    border-bottom: 2px saddlebrown;
+ }
+ .row{
+    border: bottom 2px seagreen ;
+ }
+ .colomn{
+    border: top 2px red ;
+ }
+ table{
+    border-collapse: collapse;
+    margin: 5% 30% 5% 40%;
+ }
+ table tr{
+    border-bottom:2px solid red ;
+ }
+ table td {
+    border-right:  3px solid green;
+    padding:  7px 10px 7px 10px;
+ }
+ 
+ 
